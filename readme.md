@@ -7,13 +7,6 @@
 
 Download [JQuery](http://jquery.com/download/) (tested on version 2.1.4).
 
- 
-                  <li>Add a <code>button</code> element to toggle the paintbucket tool on/off.</li>
-                  <pre><code class="html">&lt;button id="my-paintbucket-btn"&gt;Fill color&lt;/button&gt;</code></pre>
-
-                  <li>Add script to initialize the plugin.</li>
-                  <pre><code class="javascript">$('#my-paintbucket-btn').paintbucket('#my-canvas');</code></pre>
-
 Download the [production version][min] or the [development version][max].
 
 [min]: https://raw.githubusercontent.com/ekwibowo/paintbucketjs/master/dist/paintbucket.min.js
