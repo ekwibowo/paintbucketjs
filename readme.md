@@ -9,8 +9,8 @@ Download [JQuery](http://jquery.com/download/) (tested on version 2.1.4).
 
 Download the [production version][min] or the [development version][max].
 
-[min]: https://raw.githubusercontent.com/ekwibowo/paintbucketjs/master/dist/paintbucket.min.js
-[max]: https://raw.githubusercontent.com/ekwibowo/paintbucketjs/master/dist/paintbucket.js
+[min]: https://github.com/ekwibowo/paintbucketjs/releases/download/v0.1.0/paintbucket.min.js
+[max]: https://raw.githubusercontent.com/ekwibowo/paintbucketjs/master/src/paintbucket.js
 
 In your web page:
 
