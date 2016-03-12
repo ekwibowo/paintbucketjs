@@ -1,0 +1,9 @@
+{
+  "name": "paintbucket",
+  "version": "0.1.0",
+  "dependencies": {},
+  "devDependencies": {
+    "qunit": "~1.22.0",
+    "jquery": "~2.1.4"
+  }
+}
